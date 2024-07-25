@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CoinModel" representedClassName="CoinModel" syncable="YES" codeGenerationType="class">
+        <attribute name="coCat" optional="YES" attributeType="String"/>
+        <attribute name="coCur" optional="YES" attributeType="String"/>
+        <attribute name="coName" optional="YES" attributeType="String"/>
+        <attribute name="coPhoto" optional="YES" attributeType="String"/>
+        <attribute name="coPPrice" optional="YES" attributeType="String"/>
+        <attribute name="coSPrice" optional="YES" attributeType="String"/>
+        <attribute name="coStatus" optional="YES" attributeType="String"/>
+    </entity>
+</model>

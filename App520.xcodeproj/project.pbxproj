@@ -11,6 +11,22 @@
 		78B38E1C2C4E5CAC00DD1121 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E1B2C4E5CAC00DD1121 /* ContentView.swift */; };
 		78B38E1E2C4E5CAE00DD1121 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78B38E1D2C4E5CAE00DD1121 /* Assets.xcassets */; };
 		78B38E222C4E5CAE00DD1121 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78B38E212C4E5CAE00DD1121 /* Preview Assets.xcassets */; };
+		78B38E352C4E63A000DD1121 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78B38E342C4E63A000DD1121 /* Launch Screen.storyboard */; };
+		78B38E372C4E63A700DD1121 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E362C4E63A700DD1121 /* LoadingView.swift */; };
+		78B38E392C4E63BC00DD1121 /* R1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E382C4E63BC00DD1121 /* R1.swift */; };
+		78B38E3B2C4E63C800DD1121 /* R2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E3A2C4E63C800DD1121 /* R2.swift */; };
+		78B38E3D2C4E63CF00DD1121 /* U1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E3C2C4E63CF00DD1121 /* U1.swift */; };
+		78B38E402C4E63DD00DD1121 /* Reviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E3F2C4E63DD00DD1121 /* Reviews.swift */; };
+		78B38E442C4E63EF00DD1121 /* Not.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E432C4E63EF00DD1121 /* Not.swift */; };
+		78B38E462C4E662800DD1121 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E452C4E662800DD1121 /* TabBar.swift */; };
+		78B38E482C4E663100DD1121 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E472C4E663100DD1121 /* CoreDataStack.swift */; };
+		78B38E4A2C4E663900DD1121 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E492C4E663900DD1121 /* Array.swift */; };
+		78B38E4D2C4E664100DD1121 /* CoreModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E4B2C4E664100DD1121 /* CoreModel.xcdatamodeld */; };
+		78B38E4F2C4E666300DD1121 /* CoinsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E4E2C4E666300DD1121 /* CoinsView.swift */; };
+		78B38E512C4E666900DD1121 /* IncomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E502C4E666900DD1121 /* IncomeView.swift */; };
+		78B38E532C4E667100DD1121 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E522C4E667100DD1121 /* SettingsView.swift */; };
+		78B38E552C4E6C3C00DD1121 /* CoinsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E542C4E6C3C00DD1121 /* CoinsViewModel.swift */; };
+		78B38E582C4E72CD00DD1121 /* AddCoin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B38E572C4E72CD00DD1121 /* AddCoin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +36,22 @@
 		78B38E1D2C4E5CAE00DD1121 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78B38E1F2C4E5CAE00DD1121 /* App520.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = App520.entitlements; sourceTree = "<group>"; };
 		78B38E212C4E5CAE00DD1121 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		78B38E342C4E63A000DD1121 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		78B38E362C4E63A700DD1121 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		78B38E382C4E63BC00DD1121 /* R1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R1.swift; sourceTree = "<group>"; };
+		78B38E3A2C4E63C800DD1121 /* R2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R2.swift; sourceTree = "<group>"; };
+		78B38E3C2C4E63CF00DD1121 /* U1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = U1.swift; sourceTree = "<group>"; };
+		78B38E3F2C4E63DD00DD1121 /* Reviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reviews.swift; sourceTree = "<group>"; };
+		78B38E432C4E63EF00DD1121 /* Not.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Not.swift; sourceTree = "<group>"; };
+		78B38E452C4E662800DD1121 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		78B38E472C4E663100DD1121 /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
+		78B38E492C4E663900DD1121 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		78B38E4C2C4E664100DD1121 /* CoreModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreModel.xcdatamodel; sourceTree = "<group>"; };
+		78B38E4E2C4E666300DD1121 /* CoinsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinsView.swift; sourceTree = "<group>"; };
+		78B38E502C4E666900DD1121 /* IncomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncomeView.swift; sourceTree = "<group>"; };
+		78B38E522C4E667100DD1121 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		78B38E542C4E6C3C00DD1121 /* CoinsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinsViewModel.swift; sourceTree = "<group>"; };
+		78B38E572C4E72CD00DD1121 /* AddCoin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +84,7 @@
 		78B38E182C4E5CAC00DD1121 /* App520 */ = {
 			isa = PBXGroup;
 			children = (
+				78B38E282C4E618300DD1121 /* Project */,
 				78B38E192C4E5CAC00DD1121 /* App520App.swift */,
 				78B38E1B2C4E5CAC00DD1121 /* ContentView.swift */,
 				78B38E1D2C4E5CAE00DD1121 /* Assets.xcassets */,
@@ -67,6 +100,125 @@
 				78B38E212C4E5CAE00DD1121 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		78B38E282C4E618300DD1121 /* Project */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E2C2C4E619A00DD1121 /* Views */,
+				78B38E2B2C4E619500DD1121 /* TabBar */,
+				78B38E2A2C4E618E00DD1121 /* Extensions */,
+				78B38E292C4E618900DD1121 /* Start */,
+			);
+			path = Project;
+			sourceTree = "<group>";
+		};
+		78B38E292C4E618900DD1121 /* Start */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E302C4E637900DD1121 /* R */,
+				78B38E2F2C4E61AE00DD1121 /* U */,
+				78B38E2E2C4E61A900DD1121 /* Loading */,
+				78B38E2D2C4E61A300DD1121 /* Launch */,
+			);
+			path = Start;
+			sourceTree = "<group>";
+		};
+		78B38E2A2C4E618E00DD1121 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E472C4E663100DD1121 /* CoreDataStack.swift */,
+				78B38E492C4E663900DD1121 /* Array.swift */,
+				78B38E4B2C4E664100DD1121 /* CoreModel.xcdatamodeld */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		78B38E2B2C4E619500DD1121 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E452C4E662800DD1121 /* TabBar.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		78B38E2C2C4E619A00DD1121 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E332C4E639400DD1121 /* Settings */,
+				78B38E322C4E639000DD1121 /* Income */,
+				78B38E312C4E638700DD1121 /* Coins */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		78B38E2D2C4E61A300DD1121 /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E342C4E63A000DD1121 /* Launch Screen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		78B38E2E2C4E61A900DD1121 /* Loading */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E362C4E63A700DD1121 /* LoadingView.swift */,
+			);
+			path = Loading;
+			sourceTree = "<group>";
+		};
+		78B38E2F2C4E61AE00DD1121 /* U */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E3C2C4E63CF00DD1121 /* U1.swift */,
+				78B38E3F2C4E63DD00DD1121 /* Reviews.swift */,
+				78B38E432C4E63EF00DD1121 /* Not.swift */,
+			);
+			path = U;
+			sourceTree = "<group>";
+		};
+		78B38E302C4E637900DD1121 /* R */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E382C4E63BC00DD1121 /* R1.swift */,
+				78B38E3A2C4E63C800DD1121 /* R2.swift */,
+			);
+			path = R;
+			sourceTree = "<group>";
+		};
+		78B38E312C4E638700DD1121 /* Coins */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E562C4E72C400DD1121 /* AddCoin */,
+				78B38E4E2C4E666300DD1121 /* CoinsView.swift */,
+				78B38E542C4E6C3C00DD1121 /* CoinsViewModel.swift */,
+			);
+			path = Coins;
+			sourceTree = "<group>";
+		};
+		78B38E322C4E639000DD1121 /* Income */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E502C4E666900DD1121 /* IncomeView.swift */,
+			);
+			path = Income;
+			sourceTree = "<group>";
+		};
+		78B38E332C4E639400DD1121 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E522C4E667100DD1121 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		78B38E562C4E72C400DD1121 /* AddCoin */ = {
+			isa = PBXGroup;
+			children = (
+				78B38E572C4E72CD00DD1121 /* AddCoin.swift */,
+			);
+			path = AddCoin;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -85,6 +237,8 @@
 			dependencies = (
 			);
 			name = App520;
+			packageProductDependencies = (
+			);
 			productName = App520;
 			productReference = 78B38E162C4E5CAC00DD1121 /* App520.app */;
 			productType = "com.apple.product-type.application";
@@ -113,6 +267,8 @@
 				Base,
 			);
 			mainGroup = 78B38E0D2C4E5CAC00DD1121;
+			packageReferences = (
+			);
 			productRefGroup = 78B38E172C4E5CAC00DD1121 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,6 +283,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78B38E352C4E63A000DD1121 /* Launch Screen.storyboard in Resources */,
 				78B38E222C4E5CAE00DD1121 /* Preview Assets.xcassets in Resources */,
 				78B38E1E2C4E5CAE00DD1121 /* Assets.xcassets in Resources */,
 			);
@@ -139,8 +296,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78B38E532C4E667100DD1121 /* SettingsView.swift in Sources */,
+				78B38E462C4E662800DD1121 /* TabBar.swift in Sources */,
+				78B38E4F2C4E666300DD1121 /* CoinsView.swift in Sources */,
 				78B38E1C2C4E5CAC00DD1121 /* ContentView.swift in Sources */,
+				78B38E582C4E72CD00DD1121 /* AddCoin.swift in Sources */,
 				78B38E1A2C4E5CAC00DD1121 /* App520App.swift in Sources */,
+				78B38E392C4E63BC00DD1121 /* R1.swift in Sources */,
+				78B38E4D2C4E664100DD1121 /* CoreModel.xcdatamodeld in Sources */,
+				78B38E552C4E6C3C00DD1121 /* CoinsViewModel.swift in Sources */,
+				78B38E3B2C4E63C800DD1121 /* R2.swift in Sources */,
+				78B38E482C4E663100DD1121 /* CoreDataStack.swift in Sources */,
+				78B38E4A2C4E663900DD1121 /* Array.swift in Sources */,
+				78B38E372C4E63A700DD1121 /* LoadingView.swift in Sources */,
+				78B38E442C4E63EF00DD1121 /* Not.swift in Sources */,
+				78B38E3D2C4E63CF00DD1121 /* U1.swift in Sources */,
+				78B38E402C4E63DD00DD1121 /* Reviews.swift in Sources */,
+				78B38E512C4E666900DD1121 /* IncomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,17 +444,19 @@
 				DEVELOPMENT_ASSET_PATHS = "\"App520/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Radius Compass";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
@@ -290,10 +464,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App520;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -308,17 +483,19 @@
 				DEVELOPMENT_ASSET_PATHS = "\"App520/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Radius Compass";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
@@ -326,10 +503,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App520;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -355,6 +533,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		78B38E4B2C4E664100DD1121 /* CoreModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				78B38E4C2C4E664100DD1121 /* CoreModel.xcdatamodel */,
+			);
+			currentVersion = 78B38E4C2C4E664100DD1121 /* CoreModel.xcdatamodel */;
+			name = CoreModel.xcdatamodeld;
+			path = /Users/igor/Documents/Applications/App520/App520/Project/Extensions/CoreModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 78B38E0E2C4E5CAC00DD1121 /* Project object */;
 }
